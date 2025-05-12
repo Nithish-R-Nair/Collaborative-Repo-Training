@@ -8,3 +8,4 @@ added a fourth branch
 added a new line in fourth branch
 aded another fifth branch for conflict resolution
 added a fifth branch
+added a sixth branch
